@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+*.exe
+!/docs/downloads/CPX Encoder.exe
+/build/
